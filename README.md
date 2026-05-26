@@ -31,7 +31,7 @@ This project examines whether Super PAC independent expenditures are associated 
 - Models: Linear Regression (R² = 0.143) and Logistic Regression (Accuracy = 67%)
 
 ## Files
-1) Main_Notebook.ipynb        # Full analysis with narrative
+1) Main_Notebook.ipynb # Full analysis with narrative
 2)SQL_Queries_SuperPAC.ipynb # Standalone SQL queries file
 3)SuperPAC_Presentation.pptx # Presentation slides
 4) README.md
