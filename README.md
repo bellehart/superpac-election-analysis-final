@@ -19,7 +19,7 @@ This project examines whether Super PAC independent expenditures are associated 
 
 ## Key Findings
 - Toss-up districts receive 5× more Super PAC spending than Safe districts on average
-- Candidates with Super PAC support win 55% of races vs 41% without — a 14 percentage point gap
+- Candidates with Super PAC support win 55% of races vs 41% without a 14 percentage point gap
 - After controlling for party and incumbency, Super PAC spending is a weaker predictor than structural factors
 - Democrats receive more absolute Super PAC dollars; Republicans show higher relative dependence on outside money
 - Incumbents win 81% of races regardless of spending level
