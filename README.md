@@ -7,7 +7,7 @@ This project examines whether Super PAC independent expenditures are associated 
 ## Research Questions
 1. Is Super PAC spending associated with electoral outcomes (vote share and win/loss)?
 2. Is Super PAC spending more important than a candidate's own fundraising?
-3. Where does Super PAC money flow — competitive or safe districts?
+3. Where does Super PAC money flow: competitive or safe districts?
 4. Are there partisan differences in how Super PAC money is deployed?
 
 ## Data Sources
